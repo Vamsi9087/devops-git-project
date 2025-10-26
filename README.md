@@ -12,3 +12,7 @@ This is a DevOps sample project managed with Git and GitHub.
 2. Make changes and commit
 3. Push and open a Pull Request to `dev`
 
+## Added in feature branch
+This line was added in feature/add-readme-info branch.
+
+## Added new section from feature branch
